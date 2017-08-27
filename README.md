@@ -96,12 +96,13 @@ Basta usar [ ] e ( ). Assim:
 
 \[ Daniel Nunes | Github ] (https://github.com/nunesdaniel)
 
-[Daniel Nunes | Github] (https://github.com/nunesdaniel)
+- [Daniel Nunes | Github] (https://github.com/nunesdaniel)
 
 Entre os colchetes você coloca o texto que representa o link, dentro dos parênteses, a URL.
 
 Obs.: Se o texto que você quer que apreça, for próprio link, basta fazer: 
 \<https://github.com/nunesdaniel/>
+
 
 <https://github.com/nunesdaniel/>
 
@@ -205,6 +206,8 @@ Para escapar caracteres, basta você utilizar a barra invertida ( \ ), seguida d
 - João Tiago
 
 ## Links Interessantes
-[Markdown] (https://pt.wikipedia.org/wiki/Markdown)
-[Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
+- [Markdown] (https://pt.wikipedia.org/wiki/Markdown)
+
+- [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+- [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
