@@ -94,9 +94,9 @@ __Negrito__
 
 Basta usar [ ] e ( ). Assim:
 
-\[ Daniel Nunes | Github ] (https://github.com/nunesdaniel)
+\[Daniel Nunes | Github](https://github.com/nunesdaniel)
 
-- [Daniel Nunes | Github] (https://github.com/nunesdaniel)
+[Daniel Nunes | Github](https://github.com/nunesdaniel)
 
 Entre os colchetes você coloca o texto que representa o link, dentro dos parênteses, a URL.
 
@@ -112,7 +112,7 @@ A geração de imagens é bem semelhante à de links, basta acrescentar uma ! no
 
 \![ Texto alt da imagem ] \( URL da imagem ) 
 
-[ Texto alt da imagem ] (https://avatars2.githubusercontent.com/u/26189299?v=4&s=460)
+[Texto alt da imagem](https://avatars2.githubusercontent.com/u/26189299?v=4&s=460)
 
 ## Citação
 
@@ -206,8 +206,8 @@ Para escapar caracteres, basta você utilizar a barra invertida ( \ ), seguida d
 - João Tiago
 
 ## Links Interessantes
-- [Markdown] (https://pt.wikipedia.org/wiki/Markdown)
+- [Markdown](https://pt.wikipedia.org/wiki/Markdown)
 
-- [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-- [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
