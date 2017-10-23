@@ -1,4 +1,4 @@
-# Conhecendo um pouco sobre Markdown
+# Conhecendo um pouco sobre Markdown :white_check_mark:
 
 ## O que é?
 De acordo com a Wikipédia, "Markdown é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz. Markdown converte seu texto em XHTML válido". Ou seja, markdown é uma ferramenta de conversão de texto em HTML. Ou seja, é a melhor forma de se escrever HTML sem escrever HTML por assim dizer.
