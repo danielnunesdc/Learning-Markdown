@@ -1,24 +1,24 @@
-# Conhecendo um pouco sobre Markdown :white_check_mark:
+## Conhecendo um pouco sobre Markdown :heavy_check_mark:
 
-## O que é?
+### O que é?
 De acordo com a Wikipédia, "Markdown é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz. Markdown converte seu texto em XHTML válido". Ou seja, markdown é uma ferramenta de conversão de texto em HTML. Ou seja, é a melhor forma de se escrever HTML sem escrever HTML por assim dizer.
 
-## E para que serve?
+### E para que serve?
 
 Com Markdown você define estruturas HTML de maneira simples, fácil e rápida. Permitindo que você economize tempo. Portanto, serve basicamente para escrever textos, como: artigos de blog, documentação de software, entre outros. 
 
-## Então posso parar de escrever sites em HTML e fazer tudo em Markdown? 
+### Então posso parar de escrever sites em HTML e fazer tudo em Markdown? 
 
 Não! Pelo simples fato de você não conseguir colocar atributos (como: class, id etc.), não ter muito controle para fazer alinhamento de tags, entre outros detalhes.
 
-## Onde pode ser usado? 
+### Onde pode ser usado? 
 
 Bem, existe vários lugares onde você pode usar Markdown. Dois exemplos legais são:
 Github e Bitbucket, onde pode ser utilizado no arquivo README.md, que geralmente é utilizado para escrever a documentação do projeto. (fica localizado na raiz do projeto)
  
-## Usando Markdown
+### Usando Markdown
 
-## Título
+#### Título
 
 Utilizando # você consegue marcar um título. Para definir o nível (como em HTML `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` ou `<h6>`), você pode acrescentar # o número de vezes que for necessário. 
 
@@ -48,13 +48,13 @@ Exemplo:
 
 ###### Título H6
 
-## Parágrafo
+### Parágrafo
 
 Simplesmente escreva o texto em uma linha.
 
 Este é um parágrafo.
 
-## Quebra de linha 
+### Quebra de linha 
 
 Simplesmente deixe uma linha em branco e escreva o texto na próxima linha.
 
@@ -62,7 +62,7 @@ Primeira linha.
 
 Segunda linha.
 
-## Ênfase (Itálico e Negrito)
+### Ênfase (Itálico e Negrito)
 
 Em Markdown basta usar um * ou _ para deixar a palavra em Itálico.
 
@@ -90,7 +90,7 @@ Ou
 
 __Negrito__ 
 
-## Links
+### Links
 
 Basta usar [ ] e ( ). Assim:
 
@@ -100,21 +100,21 @@ Basta usar [ ] e ( ). Assim:
 
 Entre os colchetes você coloca o texto que representa o link, dentro dos parênteses, a URL.
 
-Obs.: Se o texto que você quer que apreça, for próprio link, basta fazer: 
-\<https://github.com/nunesdaniel/>
+Obs.: Se o texto que você quer que apreça, for próprio link, basta fazer o seguinte: Escreva o url do site entre colchetes angulares, mais conhecidos como sinais de menor `<` e maior `>`como o exemplo abaixo: 
 
+< URL do Github >
 
 <https://github.com/nunesdaniel/>
 
-## Imagens
+### Imagens
 
 A geração de imagens é bem semelhante à de links, basta acrescentar uma ! no começo.
 
 \![ Texto alt da imagem ] \( URL da imagem ) 
 
-[Texto alt da imagem](https://avatars2.githubusercontent.com/u/26189299?v=4&s=460)
+![Texto alt da imagem](https://avatars0.githubusercontent.com/u/26189299?s=400&u=4b2235a4343f0916966f50b20d593f2aa7b5aa9b&v=4)
 
-## Citação
+### Citação
 
 Para criar um bloco de citação ( `<blockquote>` `</ blockquote>` ), basta fazer:
 
@@ -131,7 +131,7 @@ Para criar um bloco de citação ( `<blockquote>` `</ blockquote>` ), basta faze
 >
 > Para um novo parágrafo, basta pular uma linha.
 
-## Listas
+### Listas
 
 Para fazer listas, basta fazer:
 
@@ -165,7 +165,7 @@ Caso queira uma lista ordenada, faça:
 1. 1º item
 2. 2º item
 
-## Escrever trechos de código
+### Escrever trechos de código
 
 Basta usar \`\`. 
 
@@ -173,7 +173,7 @@ Exemplo:
 
 `<h1>` 
 
-## Escapar caracteres
+### Escapar caracteres
 
 Para escapar caracteres, basta você utilizar a barra invertida ( \ ), seguida do respectivo caractere. Exemplos:
 
@@ -201,11 +201,9 @@ Para escapar caracteres, basta você utilizar a barra invertida ( \ ), seguida d
 
 \!    ( imprimir exclamação )
 
-#### Fontes
-- Wikipédia
-- João Tiago
 
-## Links Interessantes
+
+### Links Interessantes
 - [Markdown](https://pt.wikipedia.org/wiki/Markdown)
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
