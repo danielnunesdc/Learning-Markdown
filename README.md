@@ -202,6 +202,21 @@ Para escapar caracteres, basta você utilizar a barra invertida ( \ ), seguida d
 \!    ( imprimir exclamação )
 
 
+### Tabelas
+
+Exemplo de uma tabela de Horário de Aulas, a seguinte estrutura cria uma tabela com quatro colunas, para criar uma tabela deve-se respeitar a estrutura com espaços antes das palvras e sinais, e também os sinais como pipes `|`, dois pontos `:` e traços `-`
+
+<r>Horário | Segunda | Terça | Quarta | Quinta<br>
+:--: | :--: | :--: | :--: | :--:<br>
+13:00 | Aula 1 | Aula 3 | Aula 5 | Aula 2<br>
+14:00 | Aula 4 | Aula 2 | Aula 5 | Aula 1<br>
+
+Horário | Segunda | Terça | Quarta | Quinta
+:--: | :--: | :--: | :--: | :--:
+13:00 | Aula 1 | Aula 3 | Aula 5 | Aula 2
+14:00 | Aula 4 | Aula 2 | Aula 5 | Aula 1
+
+
 
 ### Links Interessantes
 - [Markdown](https://pt.wikipedia.org/wiki/Markdown)
